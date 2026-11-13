@@ -12,6 +12,11 @@
   </a>
 </div>
 
+
+<div align="left">
+  - 🌱 I’m currently learning React, NodeJS and NestJS to improve my skills and be able to work more with AI
+</div>
+
 <div align="center">
   <h4>
     Some of the things I've worked with 🛠
@@ -32,5 +37,6 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 <div align="center">
-  📫 How to reach me: gmezjhon@gmail.com
+  <h3>Connect with me:</h3>
+   📫 <a href="https://www.linkedin.com/in/jhongomezmarin96/" target="_blank">https://www.linkedin.com/in/jhongomezmarin96/</a>
 </div>
